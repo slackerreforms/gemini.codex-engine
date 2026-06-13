@@ -1,0 +1,6 @@
+# Force proper language detection
+*.html linguist-detectable=true
+index.html linguist-language=HTML
+
+# Markdown
+*.md linguist-detectable=true
